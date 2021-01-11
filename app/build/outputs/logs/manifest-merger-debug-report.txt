@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cadd846b851265ff8563738218c97606\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6df11ddf9fa126d46859010b25225e34\navigation-ui-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\750e11957bf7041179375a87d64fa3cb\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:1.0.0-alpha03] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40263f5eea2639bb9cd66b57a2554325\jetified-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\504ab10d9fe8a68601f302f0fd044a97\jetified-ui-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7e3629360dbc82974a436e0647428509\appcompat-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9a79a194be8f8b016c7c58ddef76e5f6\jetified-navigation-dynamic-features-fragment-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a2aebf6231a1155acea37b3ab31001d4\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e528ac3dc15ac86f156c2145a14e293a\navigation-fragment-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7087e7f62a3d23efa2c47cb5fc0ce856\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\acae1e105c30239f5f4e5e919eb23c10\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\02c08023c936537477193299660ae4f9\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6967c301f1cc446f73b0cd2012b693b1\fragment-1.3.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\92001d884bae6b5cefc26e21923317cd\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e4e188dde42db9ec430d5d1cf15cd004\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7c9c5f6abc7e90fa7fcfd4792a8f6a9c\jetified-ui-text-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saved-instance-state:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\684a266fcb3eea40154015b0b0161e54\jetified-runtime-saved-instance-state-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5687238c7fe7ecd185374429d14fd8e1\jetified-animation-core-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f9a51f3598a808d2e60afe9885ba9004\jetified-ui-graphics-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7acdb01ea84eaa86afe5d37f57a25e28\jetified-ui-unit-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cd261849bf4c38be93d0c4289f93269d\jetified-ui-geometry-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\11d2b9a0db47906eedd177d89efd4303\jetified-ui-util-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\26c2f584ed333490f6c8382865255580\jetified-runtime-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1ab7b5f43f6b360a7268746489eb50d4\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a162a4d9e5338ac81fcdc360bf925715\jetified-navigation-dynamic-features-runtime-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0fa17263c7a3a9cc90f48fa5e04be306\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\30ea3985a26de7e0e5934787e5116813\navigation-runtime-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c2701d26ee93e78c89a96df7123bdd22\navigation-common-ktx-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9626a0b7c656e92376763717786f843e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-dispatch:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a0c9cf7f99565ea3bd4be315b6e72a48\jetified-runtime-dispatch-1.0.0-alpha08\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\97e273bb22bc63cbaaf2476387972010\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b29f11237d592ae57e007d444a9bc00e\jetified-autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5046a201442d69464984a1fc45ced581\jetified-activity-1.2.0-alpha07\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a14f26dfe92f54badee14ffb0c9229a6\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\98a0b41ca9a47c2fea830e2c1f2167dd\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4156500b076a96ae7e62d9ea7031d4b2\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f1635d611e72c10b37a22998e5f2eb15\lifecycle-viewmodel-2.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1b9e1349442b255d92cd5b2f6f53a7d9\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8311a72f4b6db23f89da1987bd44ab13\lifecycle-runtime-2.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\ef8e286b4790411fa58c87b844b5dc47\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\93b6131afe6fe51080cbadd1a7be736f\lifecycle-livedata-core-2.3.0-alpha06\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:8:22-68
+application
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:10:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\750e11957bf7041179375a87d64fa3cb\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\750e11957bf7041179375a87d64fa3cb\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:10:3-17:17
+MERGED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:10:3-17:17
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:17:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:11:9-44
+activity#edu.upc.dsa.Minim2meriHermoso.MainActivity
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:18:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cadd846b851265ff8563738218c97606\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cadd846b851265ff8563738218c97606\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6df11ddf9fa126d46859010b25225e34\navigation-ui-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6df11ddf9fa126d46859010b25225e34\navigation-ui-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6fcc636d3ce9936f67977b2809de7d1b\navigation-ui-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\750e11957bf7041179375a87d64fa3cb\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\750e11957bf7041179375a87d64fa3cb\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose:1.0.0-alpha03] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40263f5eea2639bb9cd66b57a2554325\jetified-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:1.0.0-alpha03] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40263f5eea2639bb9cd66b57a2554325\jetified-navigation-compose-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\504ab10d9fe8a68601f302f0fd044a97\jetified-ui-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\504ab10d9fe8a68601f302f0fd044a97\jetified-ui-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7e3629360dbc82974a436e0647428509\appcompat-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7e3629360dbc82974a436e0647428509\appcompat-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\213ad6fce5ea38e5799c707ff664b050\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c9e3c86218f0ebf08d011b105d6d4b36\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9a79a194be8f8b016c7c58ddef76e5f6\jetified-navigation-dynamic-features-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9a79a194be8f8b016c7c58ddef76e5f6\jetified-navigation-dynamic-features-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a2aebf6231a1155acea37b3ab31001d4\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a2aebf6231a1155acea37b3ab31001d4\navigation-fragment-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e528ac3dc15ac86f156c2145a14e293a\navigation-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e528ac3dc15ac86f156c2145a14e293a\navigation-fragment-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7087e7f62a3d23efa2c47cb5fc0ce856\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7087e7f62a3d23efa2c47cb5fc0ce856\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b52031778c3730d2e5cb2a6c88a2a2c6\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0aba193bd00fb1b7c7cdddf1ab1f36bc\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\acae1e105c30239f5f4e5e919eb23c10\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\acae1e105c30239f5f4e5e919eb23c10\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\02c08023c936537477193299660ae4f9\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\02c08023c936537477193299660ae4f9\jetified-fragment-ktx-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6967c301f1cc446f73b0cd2012b693b1\fragment-1.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\6967c301f1cc446f73b0cd2012b693b1\fragment-1.3.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\92001d884bae6b5cefc26e21923317cd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\92001d884bae6b5cefc26e21923317cd\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8a338226b496967f0d093bd2fec348ba\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e4e188dde42db9ec430d5d1cf15cd004\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\e4e188dde42db9ec430d5d1cf15cd004\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7c9c5f6abc7e90fa7fcfd4792a8f6a9c\jetified-ui-text-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7c9c5f6abc7e90fa7fcfd4792a8f6a9c\jetified-ui-text-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saved-instance-state:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\684a266fcb3eea40154015b0b0161e54\jetified-runtime-saved-instance-state-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saved-instance-state:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\684a266fcb3eea40154015b0b0161e54\jetified-runtime-saved-instance-state-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5687238c7fe7ecd185374429d14fd8e1\jetified-animation-core-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5687238c7fe7ecd185374429d14fd8e1\jetified-animation-core-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f9a51f3598a808d2e60afe9885ba9004\jetified-ui-graphics-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f9a51f3598a808d2e60afe9885ba9004\jetified-ui-graphics-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7acdb01ea84eaa86afe5d37f57a25e28\jetified-ui-unit-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7acdb01ea84eaa86afe5d37f57a25e28\jetified-ui-unit-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cd261849bf4c38be93d0c4289f93269d\jetified-ui-geometry-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\cd261849bf4c38be93d0c4289f93269d\jetified-ui-geometry-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\11d2b9a0db47906eedd177d89efd4303\jetified-ui-util-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\11d2b9a0db47906eedd177d89efd4303\jetified-ui-util-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\26c2f584ed333490f6c8382865255580\jetified-runtime-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\26c2f584ed333490f6c8382865255580\jetified-runtime-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1ab7b5f43f6b360a7268746489eb50d4\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1ab7b5f43f6b360a7268746489eb50d4\jetified-appcompat-resources-1.3.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a162a4d9e5338ac81fcdc360bf925715\jetified-navigation-dynamic-features-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a162a4d9e5338ac81fcdc360bf925715\jetified-navigation-dynamic-features-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0fa17263c7a3a9cc90f48fa5e04be306\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\0fa17263c7a3a9cc90f48fa5e04be306\navigation-runtime-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\30ea3985a26de7e0e5934787e5116813\navigation-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\30ea3985a26de7e0e5934787e5116813\navigation-runtime-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c2701d26ee93e78c89a96df7123bdd22\navigation-common-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\c2701d26ee93e78c89a96df7123bdd22\navigation-common-ktx-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\2273b25b8844a15f15106fedcdf7b834\navigation-common-2.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9626a0b7c656e92376763717786f843e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\9626a0b7c656e92376763717786f843e\jetified-activity-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-dispatch:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a0c9cf7f99565ea3bd4be315b6e72a48\jetified-runtime-dispatch-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-dispatch:1.0.0-alpha08] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a0c9cf7f99565ea3bd4be315b6e72a48\jetified-runtime-dispatch-1.0.0-alpha08\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\97e273bb22bc63cbaaf2476387972010\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\97e273bb22bc63cbaaf2476387972010\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b29f11237d592ae57e007d444a9bc00e\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\b29f11237d592ae57e007d444a9bc00e\jetified-autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5046a201442d69464984a1fc45ced581\jetified-activity-1.2.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-alpha07] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\5046a201442d69464984a1fc45ced581\jetified-activity-1.2.0-alpha07\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4da7f718e22ae395dfeb6664156dc73a\core-1.5.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a14f26dfe92f54badee14ffb0c9229a6\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\a14f26dfe92f54badee14ffb0c9229a6\jetified-lifecycle-runtime-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\98a0b41ca9a47c2fea830e2c1f2167dd\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\98a0b41ca9a47c2fea830e2c1f2167dd\jetified-lifecycle-viewmodel-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4156500b076a96ae7e62d9ea7031d4b2\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4156500b076a96ae7e62d9ea7031d4b2\jetified-lifecycle-viewmodel-savedstate-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f1635d611e72c10b37a22998e5f2eb15\lifecycle-viewmodel-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\f1635d611e72c10b37a22998e5f2eb15\lifecycle-viewmodel-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1b9e1349442b255d92cd5b2f6f53a7d9\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-alpha01] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\1b9e1349442b255d92cd5b2f6f53a7d9\jetified-savedstate-1.1.0-alpha01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8311a72f4b6db23f89da1987bd44ab13\lifecycle-runtime-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8311a72f4b6db23f89da1987bd44ab13\lifecycle-runtime-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\ef8e286b4790411fa58c87b844b5dc47\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\ef8e286b4790411fa58c87b844b5dc47\jetified-lifecycle-livedata-core-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\93b6131afe6fe51080cbadd1a7be736f\lifecycle-livedata-core-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-alpha06] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\93b6131afe6fe51080cbadd1a7be736f\lifecycle-livedata-core-2.3.0-alpha06\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:4:3-70
+MERGED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:4:3-70
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Meritxell\Documents\UNIVERSITAT\DSA\Minim2meriHermoso\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\4ea7d4def62cdbca425b27b3992371ab\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:8:3-74
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:8:20-72
+activity#com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity
+ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:5-271
+	android:process
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:152-203
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:103-126
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:240-269
+	android:launchMode
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:204-239
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:127-151
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:12:15-102
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:5-226
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:96-119
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:145-174
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:120-144
+	android:theme
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:175-224
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:13:15-95
+service#com.google.android.play.core.assetpacks.AssetPackExtractionService
+ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:16:5-145
+	android:enabled
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:16:96-119
+	android:exported
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:16:120-143
+	android:name
+		ADDED from [com.google.android.play:core:1.7.2] C:\Users\Meritxell\.gradle\caches\transforms-2\files-2.1\bd52b89324f394fbe18b66f611cf899e\jetified-core-1.7.2\AndroidManifest.xml:16:14-95

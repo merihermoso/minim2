@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.SplashScreenFragment"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/fragment_splash_screen" >
+        <action
+            android:id="@+id/action_splashScreenFragment_to_mainMenuFragment"
+            app:destination="@id/mainMenuFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainMenuFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.MainMenuFragment"
+        android:label="fragment_main_menu"
+        tools:layout="@layout/fragment_main_menu" >
+        <action
+            android:id="@+id/action_mainMenuFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/noInternetConnectionFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.NoInternetConnectionFragment"
+        android:label="fragment_no_internet_connection"
+        tools:layout="@layout/fragment_no_internet_connection" />
+    <fragment
+        android:id="@+id/connectionErrorFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.ConnectionErrorFragment"
+        android:label="fragment_connection_error"
+        tools:layout="@layout/fragment_connection_error" />
+    <fragment
+        android:id="@+id/profileGeneralFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.ProfileGeneralFragment"
+        android:label="fragment_profile_general"
+        tools:layout="@layout/fragment_profile_general" />
+    <fragment
+        android:id="@+id/configurationFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.ConfigurationFragment"
+        android:label="ConfigurationFragment" />
+    <fragment
+        android:id="@+id/imageViewFragment"
+        android:name="edu.upc.dsa.Minim2meriHermoso.fragments.ImageViewFragment"
+        android:label="fragment_image_view"
+        tools:layout="@layout/fragment_image_view" />
+</navigation>

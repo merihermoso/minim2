@@ -1,0 +1,29 @@
+edu/upc/dsa/Minim2meriHermoso/fragments/MainMenuFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.MainMenuFragment
+edu/upc/dsa/Minim2meriHermoso/fragments/ImageViewFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.ImageViewFragment
+ edu.upc.dsa.Minim2meriHermoso.fragments.ImageViewFragment$1
+edu/upc/dsa/Minim2meriHermoso/fragments/SplashScreenFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.SplashScreenFragment
+edu/upc/dsa/Minim2meriHermoso/services/UserService.java
+ edu.upc.dsa.Minim2meriHermoso.services.UserService
+edu/upc/dsa/Minim2meriHermoso/fragments/ProfileFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.ProfileFragment
+ edu.upc.dsa.Minim2meriHermoso.fragments.ProfileFragment$1
+ edu.upc.dsa.Minim2meriHermoso.fragments.ProfileFragment$2
+edu/upc/dsa/Minim2meriHermoso/fragments/ConnectionErrorFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.ConnectionErrorFragment
+edu/upc/dsa/Minim2meriHermoso/MainActivity.java
+ edu.upc.dsa.Minim2meriHermoso.MainActivity
+ edu.upc.dsa.Minim2meriHermoso.MainActivity$1
+edu/upc/dsa/Minim2meriHermoso/models/ReposResponse.java
+ edu.upc.dsa.Minim2meriHermoso.models.ReposResponse
+edu/upc/dsa/Minim2meriHermoso/BuildConfig.java
+ edu.upc.dsa.Minim2meriHermoso.BuildConfig
+edu/upc/dsa/Minim2meriHermoso/MyAdapter.java
+ edu.upc.dsa.Minim2meriHermoso.MyAdapter
+ edu.upc.dsa.Minim2meriHermoso.MyAdapter$ViewHolder
+edu/upc/dsa/Minim2meriHermoso/models/UserResponse.java
+ edu.upc.dsa.Minim2meriHermoso.models.UserResponse
+edu/upc/dsa/Minim2meriHermoso/fragments/NoInternetConnectionFragment.java
+ edu.upc.dsa.Minim2meriHermoso.fragments.NoInternetConnectionFragment
